@@ -55,7 +55,7 @@ Git is free software.
 
 ![git bash]([learngit/屏幕截图 2022-11-03 183508.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/屏幕截图 2022-11-03 183508.png)https://github.com/GitEW45/learngit/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-11-03%20183508.png
 
-![git bash here]([learngit/屏幕截图 2022-11-03 183601.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/屏幕截图 2022-11-03 183601.png)
+![git bash here]([learngit/屏幕截图 2022-11-03 183601.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/屏幕截图 2022-11-03 183601.png
 
 
 
