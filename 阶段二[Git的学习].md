@@ -14,17 +14,17 @@
 
 3. 同时还使git --version查看了所安装的Git的版本
 
-   ![image-20221103112609690](C:\Users\wcjR7000\AppData\Roaming\Typora\typora-user-images\image-20221103112609690.png)
+   ![image-20221103112609690]([learngit/image-20221103112609690.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/image-20221103112609690.png)
 
-   ![image-20221103112707552](C:\Users\wcjR7000\AppData\Roaming\Typora\typora-user-images\image-20221103112707552.png)
+   ![image-20221103112707552]([learngit/image-20221103112707552.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/image-20221103112707552.png)
 
-![image-20221103112440133](C:\Users\wcjR7000\AppData\Roaming\Typora\typora-user-images\image-20221103112440133.png)
+![image-20221103112440133]([learngit/image-20221103112440133.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/image-20221103112440133.png)
 
 #### 2.2.创建版本库
 
 1. 按照步骤，创建了一个新目录
 
-![image-20221103115411840](C:\Users\wcjR7000\AppData\Roaming\Typora\typora-user-images\image-20221103115411840.png)
+![image-20221103115411840]([learngit/image-20221103115411840.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/image-20221103115411840.png)
 
  2.通过git init命令将该目录变成了Git可以管理的仓库，得到:Initialized empty Git repository in D:/新建文件夹/Git/learngit/.git/
 
@@ -39,7 +39,7 @@ Git is free software.
 
 之后将remdam.md文件移动到learngit的目录中，再依次用git add和git commit命令将文件提交到仓库。
 
-![image-20221103123343895](C:\Users\wcjR7000\AppData\Roaming\Typora\typora-user-images\image-20221103123343895.png)
+![image-20221103123343895]([GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/image-20221103123343895.png)
 
 ### SSH密钥：
 
