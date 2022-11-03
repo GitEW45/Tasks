@@ -55,9 +55,11 @@ Git is free software.
 
 ![git bash]([learngit/屏幕截图 2022-11-03 183508.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/屏幕截图 2022-11-03 183508.png)https://github.com/GitEW45/learngit/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-11-03%20183508.png
 
-![git bash here[[learngit/屏幕截图 2022-11-03 183601.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/屏幕截图 2022-11-03 183601.png)
+![git bash here]([learngit/屏幕截图 2022-11-03 183601.png at main · GitEW45/learngit (github.com)](https://github.com/GitEW45/learngit/blob/main/屏幕截图 2022-11-03 183601.png)
 
-3.由于刚开始与远程仓库Learngit.git关联成功，与Tasks.git仓库关联时关联失败，用git remote  -v查看关联的远程仓库，用git remote rm origin命令删除了关联的Learngit仓库，使用git remote add origin和git push -u origin  master将Git本地文件推送到GIthub远程仓库。这里被推送的文件是已经使用命令提交到Git本地仓库的文件。Hello.md文件就未没有提交到Git本地仓库而没有被推送到远程仓库。
+
+
+3.由于刚开始与远程仓库Learngit.git关联成功，与Tasks.git仓库关联时关联失败，用git remote  -v查看关联的远程仓库，用git remote rm origin命令删除了关联的Learngit仓库，使用git remote add origin和git push -u origin  master将Git本地文件推送到GIthub远程仓库，在第一次使用git push 时应在第一次回车后等待，输入yes后再回车，不然无法正常关联。这里被推送的文件是已经使用命令提交到Git本地仓库的文件。Hello.md文件就未没有提交到Git本地仓库而没有被推送到远程仓库。
 
 4.git push -u origin **master**中的**master**可以用**main**替换。
 
