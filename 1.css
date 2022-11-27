@@ -1,0 +1,70 @@
+
+.nav{
+        
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    border-top: #fff;
+    background-color: rgb(245, 237, 220);
+    margin: 0 auto;
+    }
+    
+    *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    }
+    .btli{
+    float: left;
+    float: inline-start;
+    width: 200px;
+    line-height: 70px;
+    text-align: center;
+    }
+    .navlist a{
+    color: #fff;
+    display: block;
+    }
+    .Alist a:hover{
+    background: darksalmon;
+    }
+    .droplist{
+    position: absolute;
+    display: none;
+    border-radius: 6px;
+    overflow: hidden;
+    }
+    .btli:hover .droplist{
+    display: block;
+    }
+    .droplist li{
+    border-top: 1px solid #666;
+    }
+   .box{
+    z-index: 1;
+    width: 2000px;
+    height: 800px;
+    left: 0px;
+    top: 500px;}
+    .logo{
+        z-index: 2;
+        left: 700px;
+        top: 200px;
+        position: absolute;
+       overflow:hidden;
+       transition: transform 0.5s;
+    }
+    .logo:hover{
+        transform: scale(1.2);
+    }
+    .box-two{
+        background-color: aliceblue;
+        width: 2000px;
+        height: 800px;
+       
+    }
+    .box-two{
+        left: 0px;
+        top: 600px;
+    }
