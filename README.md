@@ -11,5 +11,4 @@
 ##[index.html](https://github.com/GitEW45/Tasks/blob/main/index.html)  
 ##[1.css](https://github.com/GitEW45/Tasks/blob/main/1.css)  
 https://gitew45.github.io/
-[阶段五]（https://github.com/GitEW45/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%BA%94python%E5%AD%A6%E4%B9%A0.md）
 
